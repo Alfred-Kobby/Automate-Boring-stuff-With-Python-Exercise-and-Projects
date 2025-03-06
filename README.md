@@ -1,0 +1,1 @@
+This Repository Contains Solutions to the Execrises in the Automating Boring Stuff with Python Book Edition 2.
