@@ -15,5 +15,3 @@ for questionNumber in range(numberOfQuestions):
         if int(response) == ans:
             correctAnswers += 1
             print("Correct!")
-        else:
-    else:
