@@ -1,7 +1,7 @@
 import os, shutil
 from pathlib import Path
 
-my_path = Path('/Users/aternor/Documents/Personal/python/Automate Boring stuff')
+my_path = Path('/Users/****/Documents/Personal/python/Automate Boring stuff')
 
 os.makedirs('my_new_folder', exist_ok=True)
 
